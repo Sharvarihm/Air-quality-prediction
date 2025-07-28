@@ -49,13 +49,13 @@ To build an accurate and interpretable model that predicts air quality based on 
 ### Forecasting 
 <img width="577" height="575" alt="image" src="https://github.com/user-attachments/assets/3829bb8a-3004-4efa-bfdf-0f624e8f01a2" />
 
-###Task AQI Regression with MSE, R2 Score, Sample Predictions
+### Task AQI Regression with MSE, R2 Score, Sample Predictions
 <img width="302" height="480" alt="image" src="https://github.com/user-attachments/assets/43afbb8c-ed68-421a-a918-5a751de3a6f1" />
 
-###Actual vs Predicted scatter plot
+### Actual vs Predicted scatter plot
 <img width="553" height="367" alt="image" src="https://github.com/user-attachments/assets/c7d2d433-a61b-40e9-81b2-25ec8eb3fae5" />
 
-###User input of parameters and predicted AQI
+### User input of parameters and predicted AQI
 <img width="581" height="431" alt="image" src="https://github.com/user-attachments/assets/0863dce1-7cd8-481f-a277-62adc2b1cf1b" />
 <img width="487" height="278" alt="image" src="https://github.com/user-attachments/assets/dcec0da1-09b0-496d-9850-d87944471a37" />
 
